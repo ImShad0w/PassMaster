@@ -17,16 +17,30 @@ Things the project has to have:
 
 Will create the design in figma
 
+## Tech stack
+
+- **Frontend**: NextJS + Konva
+
+- **Backend**: Laravel
+
+- **Real-time communication**: Node + Socket.IO
+
+- **Database**: MySQL
+
+- **Development**: Docker + Docker-Compose
+
+- **Component Library**: Shadcn
+
 ## Todos
 
 - [ ] Start by designing the flux of user and admin panel
 - [ ] Create Taiga for tracking the progress
-- [ ] Choose a tech stack
-- [ ] Initiate the repo and search for component library to use
+- [x] Choose a tech stack
+- [x] Initiate the repo and search for component library to use
 
 ## Key concepts to learn for this project
 
 - Queue logic
 - Component library (Shadcn)
 - Ticket state in real-time
-- Map of the chairs for real time reserves
+- Map of the chairs for real time locks
